@@ -14,7 +14,7 @@ public class GamePlayWord : MonoBehaviour
 {
     public static GamePlayWord Instance = null;
     public CreateMap map;
-    public GameObject Save;
+    public GameObject Save; 
     public GameObject NextLevel;
     public GameObject levelLayer;
     public GameObject passScoreObj;
